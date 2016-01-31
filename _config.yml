@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.8227517972700298
   brandStrength: 0.5298827604856342
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: MAKE THE LOGO SMALLER
 favicon: null
+name: MAKE THE LOGO SMALLER
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5748130832798779
+typography_spectrum: 0
 layout_spectrum: 0.05017921
