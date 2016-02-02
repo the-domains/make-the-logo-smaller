@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: breaking and reassemblings things since 1978
-datePublished: '2016-02-02T17:20:54.665Z'
+datePublished: '2016-02-02T17:20:54.625Z'
 dateModified: '2016-02-02T17:20:47.201Z'
 title: make the logo smaller
 author: []
