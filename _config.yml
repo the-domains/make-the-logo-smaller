@@ -1,5 +1,8 @@
+name: MAKE THE LOGO SMALLER
+favicon: null
+layout_spectrum: 0.24786
+typography_spectrum: 0
 title: Years of breaking and making things
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8227517972700298
-  brandStrength: 0.5298827604856342
-  rhythmicContrast: 0.06986126280389726
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#999999'
     - '#6a6a6a'
     - '#414141'
+  brandStrength: 0.5298827604856342
   lightness: 0.5973680969327688
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: MAKE THE LOGO SMALLER
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0
-layout_spectrum: 0.05017921
+  saturation: 0.8227517972700298
+  rhythmicContrast: 0.06986126280389726
+purpose: []
